@@ -17,6 +17,9 @@ gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'sdoc'
+gem 'guard'
+gem 'minitest-reporters'
+gem 'mini_backtrace'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
